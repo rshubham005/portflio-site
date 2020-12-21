@@ -86,3 +86,22 @@ a:hover
     80%{ color: blue; }
     100%{ color: black; }
 }
+.tech
+{
+    padding: 15px 0px;
+}
+.tech-head
+{
+    font-weight: 800;
+    font-size: 55px;
+    color: rgb(201, 37, 37);
+}
+.progress
+{
+    height: 25px;
+}
+.progress-text
+{
+    font-weight: 800;
+    font-size: 25px;
+}
