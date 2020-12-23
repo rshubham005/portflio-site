@@ -178,6 +178,11 @@ a:hover
 {
     font-size: 35px;
 }
+.projects
+{
+    text-align: center;
+    padding: 20px 0px ;
+}
 .project-heading
 {
     font-weight: 800;
@@ -188,6 +193,7 @@ a:hover
 .project-list
 {
     list-style: none;
+    padding: 0px;
 }
 .project-list li{
     padding: 15px 0px ;
