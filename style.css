@@ -35,7 +35,7 @@
 .menu-item
 {
     justify-content: space-between;
-    padding: 0px 25px;
+    padding: 0px 15px;
 }
 .menu-text
 {
@@ -125,7 +125,7 @@ a:hover
 .project-head
 {
     font-weight: 800;
-    font-size: 55px;
+    font-size: 50px;
     color: rgb(114, 35, 204);
     font-family: sans-serif;
 }
@@ -163,9 +163,9 @@ a:hover
     justify-content: center;
 }
 .social
-{
+{   
     justify-content: space-between;
-    padding: 0px 25px;
+    padding: 0px 5px;
 }
 .social-text
 {
@@ -177,4 +177,18 @@ a:hover
 .social-icon
 {
     font-size: 35px;
+}
+.project-heading
+{
+    font-weight: 800;
+    font-size: 65px;
+    color: #dc3545;
+    font-family: sans-serif;
+}
+.project-list
+{
+    list-style: none;
+}
+.project-list li{
+    padding: 15px 0px ;
 }
