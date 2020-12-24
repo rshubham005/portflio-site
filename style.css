@@ -210,8 +210,23 @@ a:hover
 }
 .photo
 {
+    max-width: 320px;
+    width: 100%;
+    display: block;
+    border-radius: 160px;
+    margin: 15px 0px ;
+}
+.photo:hover
+{
     max-width: 300px;
     width: 100%;
     display: block;
     border-radius: 150px;
+    margin: 15px 0px ;
+    border: 20px solid rgba(114, 35, 204, 0.568);
+    transition: 1.5s;
+}
+.about-span
+{
+    color: rgb(114, 35, 204);
 }
