@@ -198,3 +198,15 @@ a:hover
 .project-list li{
     padding: 15px 0px ;
 }
+.dp
+{
+    display: flex;
+    justify-content: center;
+}
+.photo
+{
+    max-width: 500px;
+    width: 100%;
+    display: block;
+    border-radius: 250px;
+}
