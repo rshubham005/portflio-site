@@ -198,6 +198,11 @@ a:hover
 .project-list li{
     padding: 15px 0px ;
 }
+.about
+{
+    padding: 25px 10px;
+    text-align: center;
+}
 .dp
 {
     display: flex;
@@ -205,8 +210,8 @@ a:hover
 }
 .photo
 {
-    max-width: 500px;
+    max-width: 300px;
     width: 100%;
     display: block;
-    border-radius: 250px;
+    border-radius: 150px;
 }
