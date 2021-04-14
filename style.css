@@ -182,7 +182,13 @@ a:hover
 }
 .social-icon
 {
-    font-size: 30px;
+    font-size: 35px;
+}
+@media screen (max-width:700px) {
+    .social-icon
+{
+    font-size: 25px;
+}
 }
 .projects
 {
