@@ -4,12 +4,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
-.nav
+.navbar
 {
-    display: flex;
-    justify-content: space-around;
     background-color: rgb(114, 35, 204);
-    border-radius: 0px 0px 35px 35px;
 }
 .heading
 {
